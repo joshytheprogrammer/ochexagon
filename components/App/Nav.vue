@@ -61,7 +61,7 @@ export default {
 
 <style lang="scss" scoped>
 nav {
-  padding: 14px 8px;
+  padding: 14px 16px;
   position: fixed;
   top: 0;
   z-index: 12;
@@ -80,7 +80,7 @@ nav {
         color: $light;
 
         h2 {
-          font-size: 32px;
+          font-size: 36px;
           font-weight: 600;
         }
       }
@@ -92,7 +92,7 @@ nav {
       .logo {
         a {
           h2 {
-            font-size: 24px;
+            font-size: 28px;
           }
         }
       }
