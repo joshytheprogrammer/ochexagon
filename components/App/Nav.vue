@@ -75,7 +75,6 @@ nav {
     height: 72px;
 
     .logo {
-
       a {
         text-decoration: none;
         color: $light;
@@ -85,10 +84,17 @@ nav {
           font-weight: 600;
         }
       }
-      
-      img {
-        width: 100%;
-        height: 72px;
+    }
+  }
+
+  @media screen and (max-width: $medium) {
+    .navbar {
+      .logo {
+        a {
+          h2 {
+            font-size: 24px;
+          }
+        }
       }
     }
   }
