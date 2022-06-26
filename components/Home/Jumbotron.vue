@@ -1,7 +1,7 @@
 <template>
   <section class="jumbotron">
     <h1>We are happy <br> to make you happier.</h1>
-    <p>We have put together, a world class range of products to create that unique industrial experience. Currently we are going through a lot of training and retraining of our staff to meet with the challenges of the new millennium. We invite you to be involved in the various product lines of O. C HEXAGON (NIG) LIMITED.</p>
+    <p>We have put together, a world class range of products to create that unique industrial experience. We invite you to be involved in the various product lines of O. C HEXAGON (NIG) LIMITED.</p>
     <a href="mailto:ochexagon@yahoo.com">Get Quote</a>
   </section>
 </template>
