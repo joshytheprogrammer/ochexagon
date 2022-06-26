@@ -1,7 +1,7 @@
 <template>
   <section class="services" id="services">
     <h2>Services we provide</h2>
-    <p>O. C HEXAGON NIGERIA LIMITED was incorporated in the year 1995 for the purpose of importation, marketing and processing industrial chemicals, equipment and laboratory items. Here are just a few things we do:</p>
+    <p>O.C Hexagon Nigeria Limited was incorporated in the year 1995 for the purpose of importation, marketing and processing industrial chemicals, equipment and laboratory items. Here are just a few things we do:</p>
     <div class="content">
       <Card v-for="item in data" :key="item.id" :data="item"  />
     </div>
