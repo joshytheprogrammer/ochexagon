@@ -80,7 +80,7 @@ nav {
         color: $light;
 
         h2 {
-          font-size: 36px;
+          font-size: 32px;
           font-weight: 600;
         }
       }
