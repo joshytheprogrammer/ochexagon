@@ -9,7 +9,7 @@
 <style lang="scss" scoped>
 .jumbotron {
   padding: 1rem;
-  background-image: url("https://images.unsplash.com/photo-1618828729232-347c3160c820?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1700&q=80");
+  // background-image: url("https://images.unsplash.com/photo-1588011930968-eadac80e6a5a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-color: $dark;
@@ -52,7 +52,7 @@
   }
 
   @media screen and (max-width: $medium) {
-    background-image: url('https://images.unsplash.com/photo-1618828729232-347c3160c820?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80');
+    // background-image: url('https://images.unsplash.com/photo-1588011930968-eadac80e6a5a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80');
     padding-bottom: 2rem;
     height: 600px;
 
