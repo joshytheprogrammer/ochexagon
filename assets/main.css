@@ -1,11 +1,11 @@
 /* Prompt for headings and Lato for paragraphs and other texts */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,300&family=Prompt:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Lato', Georgia;
+  font-family: 'Roboto', Georgia;
   scroll-behavior: smooth;
 }
 
@@ -14,5 +14,5 @@ html, body {
 }
 
 h1, h2, h3, h4, h5 ,h6 {
-  font-family: 'Prompt', Georgia;
+  font-family: 'Poppins', Georgia;
 }
