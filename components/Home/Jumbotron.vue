@@ -1,6 +1,6 @@
 <template>
   <section class="jumbotron">
-    <h1>We are happy <br> to make you happier.</h1>
+    <h1>We are happy to make you happier.</h1>
     <p>We have put together, a world class range of products to create that unique industrial experience. We invite you to be involved in the various product lines of O. C HEXAGON (NIG) LIMITED.</p>
     <a href="mailto:ochexagon@yahoo.com">Get Quote</a>
   </section>
@@ -20,7 +20,8 @@
 
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
+  text-align: center;
   justify-content: center;
 
   h1 {
@@ -30,7 +31,7 @@
   }
 
   p { 
-    width: 500px;
+    width: 900px;
     line-height: 1.875;
     font-size: 18px;
     padding: 1rem 0;
