@@ -1,5 +1,6 @@
 <template>
   <section class="jumbotron">
+    <img src="~/assets/images/logo.png" alt="">
     <h1>We are happy to make you happier.</h1>
     <p>We have put together, a world class range of products to create that unique industrial experience. We invite you to be involved in the various product lines of O. C HEXAGON (NIG) LIMITED.</p>
     <a href="mailto:ochexagon@yahoo.com">Get Quote</a>
