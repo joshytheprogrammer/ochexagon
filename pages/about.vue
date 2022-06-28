@@ -35,6 +35,15 @@
   </div>
 </template>
 
+<script>
+export default {
+  head: {
+    title: 'About - O.C.Hexagon Nigeria Limited'
+  },
+}
+</script>
+
+
 <style lang="scss" scoped>
 .about {
   width: 90%;

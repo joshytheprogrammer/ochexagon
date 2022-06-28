@@ -14,6 +14,9 @@
 
 <script>
 export default {
+  head: {
+    title: 'Products - O.C.Hexagon Nigeria Limited'
+  },
   data(){
     return {
       data: [

@@ -18,6 +18,9 @@ export default {
     Services,
     Gallery,
     Testimonials
+  },
+  head: {
+    title : 'Home - O.C.Hexagon Nigeria Limited'
   }
 }
 </script>
