@@ -22,25 +22,25 @@ export default {
       data: [
         {
           id: 0,
-          imgLink: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1656421878/blog/s_h_s_NaOCL_ord06x.webp',
+          imgLink: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1656421878/ochexagon/s_h_s_NaOCL_ord06x.webp',
           service: 'Sodium Hypochlorite Solution Hec-15',
           desc: 'Sodium Hypochlorite Solution Hec-15 brand in 200 litres reinforced plastic drums which is already in use in NLNG since 1999, Nigeria breweries plants all over Nigeria, SPDC. It is used as a biocide, in water treatment, sludge removers etc. Ours is of a high concentration with up to 14% chlorine content at the time of production.'
         },
         {
           id: 1,
-          imgLink: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1656422013/blog/sod1_metkzz.webp',
+          imgLink: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1656422013/ochexagon/sod1_metkzz.webp',
           service: 'Sodium Hydroxide Solution Hex-30, Hex-40',
           desc: 'Sodium Hydroxide Solution Hex-30, Hex-40, Hex-50 brand in 200 litres reinforced plastic drums, already in use in all the plants of Nigeria Breweries.'
         },
         {
           id: 2,
-          imgLink: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1656422293/blog/Multipurpose_Degreaser_Hec-Wash_cmrvub.webp',
+          imgLink: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1656422293/ochexagon/Multipurpose_Degreaser_Hec-Wash_cmrvub.webp',
           service: 'Multipurpose Degreaser Hec-Wash',
           desc: 'Multipurpose Degreaser Hec-Wash brand packaged in 20 litres and 200 litres plastic drums already in use in SPDC for washing off greases and oils.'
         },
         {
           id: 3,
-          imgLink: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1656422407/blog/Oil_Absorbent_w6tk1a.webp',
+          imgLink: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1656422407/ochexagon/Oil_Absorbent_w6tk1a.webp',
           service: 'Oil Absorbent Granules',
           desc: 'Oil Absorbent Granules/Pillows for clearing of oil spillages on water and grounds.'
         },
